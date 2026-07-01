@@ -1,5 +1,5 @@
 
-# QCS8250-Pills-Pack-Defect-Inspection
+# Qualcomm QCS8250 Pills Pack Defect Inspection
 
 ## Advantages of QCS8250
 

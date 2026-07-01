@@ -1,3 +1,4 @@
+
 # QCS8250-Pills-Pack-Defect-Inspection
 
 ## Advantages of QCS8250
@@ -45,5 +46,9 @@ After QCS8250 inspects the defective pills pack, it activates the push rod to pu
 ![Architecture Diagram](assets/architecture.png)
 
 ## Demo
-[(assets/QCS8250_Pills_Pack_Defect_.mp4)](https://github.com/AITgA6T/QCS8250-Pills-Pack-Defect-Inspection/blob/main/assets/QCS8250_Pills_Pack_Defect_.mp4)
+
+<video src="assets/turn_assist.mp4" controls="controls" width="100%"></video>
+
+https://github.com/user-attachments/assets/dd43abf4-0026-4004-952e-acb8e4859322
+
 

@@ -1,0 +1,1 @@
+# QCS8250-Pills-Pack-Defect-Inspection
